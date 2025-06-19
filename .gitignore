@@ -1,0 +1,14 @@
+# Ignore executable files
+*.exe
+*.out
+*.o
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore Visual Studio Code settings folder (if you use VS Code)
+.vscode/
+
+# Ignore other IDE/editor files (optional)
+*.user
